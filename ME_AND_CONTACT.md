@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luca Palla and I'm 28 yo.
+- 👋 Hi, I’m Luca Palla and I'm 29 yo.
 - 👀 I’m interested in technologies with particular focus on Blockchain and Data Analysis.
 - 🌱 I've a master degree in Data Science and actually I'm working as blockchain developer with a focus on Cosmos ecosysitem and smart contract developement
 - 📫 You can add me on Linkedin: https://www.linkedin.com/in/luca-palla-7a4473143 Feel free to contact me!
